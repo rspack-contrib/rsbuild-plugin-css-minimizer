@@ -1,6 +1,6 @@
 import { defineConfig } from '@rsbuild/core';
-import { pluginExample } from '../src';
+import { pluginCssMinimizer } from '../src';
 
 export default defineConfig({
-	plugins: [pluginExample()],
+	plugins: [pluginCssMinimizer()],
 });
