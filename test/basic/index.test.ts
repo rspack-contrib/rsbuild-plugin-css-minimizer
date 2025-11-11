@@ -23,6 +23,6 @@ test('should minimize CSS with plugin-css-minimizer correctly', async () => {
 	const content = readFileSync(cssFile, 'utf-8');
 
 	expect(content).toEqual(
-		'.a,.b{font-size:1.5rem;line-height:1.5;text-align:center}.b{background:#fafafa}',
+		'.a,.b{font-size:1.5rem;line-height:1.5;text-align:center}.b{background:#fafafa}.c{height:calc-size(auto,size)}',
 	);
 });
