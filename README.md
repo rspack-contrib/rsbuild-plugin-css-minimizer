@@ -9,6 +9,7 @@ An Rsbuild to customize the CSS minimizer, switch to [cssnano](https://github.co
    <img src="https://img.shields.io/npm/v/@rsbuild/plugin-css-minimizer?style=flat-square&colorA=564341&colorB=EDED91" alt="npm version" />
   </a>
   <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square&colorA=564341&colorB=EDED91" alt="license" />
+  <a href="https://npmcharts.com/compare/@rsbuild/plugin-css-minimizer?minimal=true"><img src="https://img.shields.io/npm/dm/@rsbuild/plugin-css-minimizer.svg?style=flat-square&colorA=564341&colorB=EDED91" alt="downloads" /></a>
 </p>
 
 ## Usage
