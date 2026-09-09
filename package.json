@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "css-minimizer-webpack-plugin": "^8.0.0",
-    "reduce-configs": "^1.1.2"
+    "reduce-configs": "^2.0.1"
   },
   "devDependencies": {
     "@rsbuild/core": "2.2.2",
